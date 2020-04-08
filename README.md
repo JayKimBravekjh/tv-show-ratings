@@ -1,1 +1,1 @@
-# tv-show-ratings
+# Tv Show Ratings
